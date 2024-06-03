@@ -1,0 +1,17 @@
+footer {
+    margin: 0 auto;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+
+.logo {
+    width: 10%;
+}
+
+footer span {
+    margin: auto 1rem;
+    font-size: 1.2em;
+    font-weight: 700;
+    color: #495e57;
+}
